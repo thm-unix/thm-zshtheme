@@ -1,5 +1,5 @@
 # thm-zshtheme
-Another yet theme for Oh-My-Zsh
+Another yet theme for Oh-My-Zsh<br>
 A modified 'The Poncho' theme
 
 ## Installation guide
