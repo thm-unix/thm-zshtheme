@@ -1,5 +1,6 @@
 # thm-zshtheme
 Another yet theme for Oh-My-Zsh
+A modified 'The Poncho' theme
 
 ## Installation guide
 1) git clone https://github.com/thm-unix/thm-zshtheme; cd thm-zshtheme
