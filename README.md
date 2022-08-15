@@ -8,4 +8,4 @@ A modified 'The Poncho' theme
 3) Set ZSH_THEME="thm" in ~/.zshrc<br>
 
 ## Screenshot
-<img src="screenshot.png">
+<img src="screenshot-terminator.png">
