@@ -8,7 +8,7 @@ A modified 'The Poncho' theme
 ### Oh-My-Zsh
 
 ```bash
-wget -P ~/.oh-my-zsh/themes https://raw.githubusercontent.com/thm-unix/thm-zshtheme/master/thm.zsh-theme
+wget -P ~/.oh-my-zsh/themes https://raw.githubusercontent.com/thm-unix/thm-zshtheme/main/thm.zsh-theme
 ```
 
 - Set ZSH_THEME="thm" in ~/.zshrc<br>
@@ -16,7 +16,7 @@ wget -P ~/.oh-my-zsh/themes https://raw.githubusercontent.com/thm-unix/thm-zshth
 ### Starship
 
 ```bash
-wget -P ~/.config https://raw.githubusercontent.com/thm-unix/thm-zshtheme/master/starship.toml
+wget -P ~/.config https://raw.githubusercontent.com/thm-unix/thm-zshtheme/main/starship.toml
 ```
 
 ## Screenshot
