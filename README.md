@@ -1,6 +1,5 @@
 # thm theme
-
-Another yet theme for Oh-My-Zsh and Starship<br>
+Yet another theme for Oh-My-Zsh and Starship<br>
 A modified 'The Poncho' theme
 
 ## Installation guide
